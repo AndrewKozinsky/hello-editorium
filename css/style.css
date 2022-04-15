@@ -1,0 +1,93 @@
+body {
+	margin: 30px;
+}
+
+.image {
+	width: 100%;
+	max-width: 500px;
+}
+
+.image--rounded {
+	border-radius: 10px;
+}
+
+.image--shadow {
+	box-shadow: 0 0 70px #601a1c;
+}
+
+.image--rounded-10 {
+	border-radius: 10px;
+}
+
+.image--rounded-20 {
+	border-radius: 10px;
+}
+
+.image--shadow-small {
+	box-shadow: 0 0 15px #601a1c;
+}
+
+.image--shadow-middle {
+	box-shadow: 0 0 40px #601a1c;
+}
+
+.image--shadow-big {
+	box-shadow: 0 0 70px #601a1c;
+}
+
+/*  ==========================================  */
+
+.table {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 26px;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.table__thead {
+	background-color: rgb(220, 220, 220);
+}
+
+.table__th {
+	font-weight: normal;
+	text-align: left;
+	padding: 8px 14px;
+	border: 1px solid rgb(220, 220, 220);
+}
+
+.table__tbody {}
+
+.table__tr {}
+
+.table__td {
+	color: #353434;
+	padding: 8px 14px;
+	border: 1px solid rgb(220, 220, 220);
+}
+
+.table__td--green {
+	color: white;
+	background-color: rgb(3, 197, 0);
+}
+
+/*  ==========================================  */
+
+.header {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 36px;
+	line-height: 46px;
+}
+
+h2 {
+	font-size: 30px;
+	line-height: 38px;
+}
+
+h3 {
+	font-size: 24px;
+	line-height: 30px;
+}
