@@ -1,7 +1,7 @@
 let incFiles = {
 	name: "Standard page",
-	head: "<link rel='stylesheet' href='https://editorium.net/fs/help/hello-world/style.css'>",
-	endBody: "<link href='https://editorium.net/fs/help/hello-world/owl/owl.carousel.css' rel='stylesheet' /><script src='https://editorium.net/fs/help/hello-world/owl/jquery.min.js'></script><script src='https://editorium.net/fs/help/hello-world/owl/owl.carousel.min.js'></script></script><script src='https://editorium.net/fs/help/hello-world/script.js'></script>"
+	head: "<link rel='stylesheet' href='https://editorium.net/fs/help/hello-editorium/css/style.css'>",
+	endBody: "<link href='https://editorium.net/fs/help/hello-editorium/js/OwlCarousel/owl.carousel.css' rel='stylesheet' /><script src='https://editorium.net/fs/help/hello-editorium/js/OwlCarousel/jquery.min.js'></script><script src='https://editorium.net/fs/help/hello-editorium/js/OwlCarousel/owl.carousel.min.js'></script><script src='https://editorium.net/fs/help/hello-editorium/js/script.js'></script>"
 }
 
 
